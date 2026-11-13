@@ -1,4 +1,4 @@
-# Avaloka Assignment
+# Questohive Pastquestion UPloader
 
 This repository contains a Python-based pipeline for extracting academic metadata from examination-paper images. It is designed to read an uploaded past-question image, identify the course information, and infer the associated university, faculty, session, semester, level, and department using external AI APIs.
 
