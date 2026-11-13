@@ -1,0 +1,207 @@
+
+{
+  "departments": {
+    "Faculty of Arts (or Humanities)": [
+      "English and Literary Studies",
+      "History and International Studies",
+      "Linguistics",
+      "Philosophy",
+      "Religious Studies",
+      "Theatre and Film Studies",
+      "Music",
+      "Fine and Applied Arts",
+      "French",
+      "Arabic Studies",
+      "Igbo Studies",
+      "Yoruba Studies"
+    ],
+    "Faculty of Education": [
+      "Educational Management",
+      "Guidance and Counselling",
+      "Educational Psychology",
+      "Adult Education",
+      "Curriculum Studies",
+      "Science Education",
+      "Mathematics Education",
+      "Computer Education",
+      "Business Education",
+      "Technical Education",
+      "Language Education",
+      "Social Studies Education",
+      "Early Childhood Education",
+      "Primary Education",
+      "Educational Technology"
+    ],
+    "Faculty of Law": [
+      "Private and Property Law",
+      "Public Law",
+      "Commercial and Industrial Law",
+      "International Law and Jurisprudence"
+    ],
+    "Faculty of Communication and Media Studies": [
+      "Mass Communication",
+      "Journalism",
+      "Public Relations",
+      "Advertising",
+      "Broadcasting",
+      "Film and Multimedia Studies"
+    ],
+    "Faculty of Social Sciences": [
+      "Economics",
+      "Political Science",
+      "Sociology",
+      "Psychology",
+      "Geography",
+      "Social Work",
+      "Criminology and Security Studies",
+      "International Relations",
+      "Demography and Social Statistics"
+    ],
+    "Faculty of Management Sciences (or Business Administration)": [
+      "Accounting",
+      "Banking and Finance",
+      "Business Administration",
+      "Marketing",
+      "Human Resource Management",
+      "Insurance",
+      "Actuarial Science",
+      "Entrepreneurship",
+      "Management"
+    ],
+    "Faculty of Administration": [
+      "Public Administration",
+      "Local Government Studies",
+      "Personnel Management",
+      "Policy and Administrative Studies"
+    ],
+    "Faculty of Science (or Natural and Applied Sciences)": [
+      "Biochemistry",
+      "Microbiology",
+      "Chemistry",
+      "Physics",
+      "Mathematics",
+      "Statistics",
+      "Botany",
+      "Zoology",
+      "Biology",
+      "Geology",
+      "Industrial Chemistry"
+    ],
+    "Faculty of Engineering (or Engineering and Technology)": [
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electrical and Electronic Engineering",
+      "Chemical Engineering",
+      "Petroleum Engineering",
+      "Computer Engineering",
+      "Agricultural Engineering",
+      "Marine Engineering",
+      "Mechatronics Engineering",
+      "Production Engineering",
+      "Structural Engineering",
+      "Metallurgical and Materials Engineering"
+    ],
+    "Faculty of Computing (or Computing and Information Technology)": [
+      "Computer Science",
+      "Software Engineering",
+      "Information Technology",
+      "Cybersecurity",
+      "Information Systems",
+      "Data Science",
+      "Artificial Intelligence",
+      "Computer Information Systems"
+    ],
+    "Faculty of Environmental Sciences": [
+      "Architecture",
+      "Estate Management",
+      "Quantity Surveying",
+      "Urban and Regional Planning",
+      "Building Technology",
+      "Surveying and Geoinformatics",
+      "Environmental Management",
+      "Landscape Architecture"
+    ],
+    "Faculty of Agriculture": [
+      "Agronomy",
+      "Animal Science",
+      "Crop Science",
+      "Soil Science",
+      "Agricultural Economics",
+      "Agricultural Extension",
+      "Fisheries and Aquaculture",
+      "Forestry and Wildlife Management",
+      "Food Science and Technology",
+      "Agricultural Business"
+    ],
+    "Faculty of Veterinary Medicine": [
+      "Veterinary Medicine",
+      "Veterinary Anatomy",
+      "Veterinary Physiology",
+      "Veterinary Pathology",
+      "Veterinary Microbiology",
+      "Veterinary Pharmacology",
+      "Veterinary Public Health"
+    ],
+    "Faculty of Basic Medical Sciences": [
+      "Anatomy",
+      "Physiology",
+      "Biochemistry",
+      "Medical Laboratory Science",
+      "Pharmacology",
+      "Medical Microbiology",
+      "Human Genetics"
+    ],
+    "Faculty of Clinical Sciences": [
+      "Medicine and Surgery",
+      "Clinical Pharmacology",
+      "Paediatrics",
+      "Internal Medicine",
+      "Surgery",
+      "Obstetrics and Gynaecology",
+      "Community Medicine",
+      "Psychiatry"
+    ],
+    "Faculty of Medicine": [
+      "Medicine and Surgery",
+      "Anatomy",
+      "Physiology",
+      "Medical Biochemistry"
+    ],
+    "Faculty of Dentistry": [
+      "Dentistry",
+      "Oral and Maxillofacial Surgery",
+      "Restorative Dentistry",
+      "Child Dental Health",
+      "Oral Pathology"
+    ],
+    "Faculty of Pharmacy": [
+      "Pharmaceutics",
+      "Pharmaceutical Chemistry",
+      "Pharmacology",
+      "Clinical Pharmacy",
+      "Pharmacognosy"
+    ],
+    "Faculty of Nursing Sciences": [
+      "Nursing Science",
+      "Community Health Nursing",
+      "Mental Health Nursing",
+      "Maternal and Child Health Nursing"
+    ],
+    "Faculty of Allied Health Sciences (or Health Sciences)": [
+      "Physiotherapy",
+      "Radiography",
+      "Medical Laboratory Science",
+      "Optometry",
+      "Occupational Therapy",
+      "Nutrition and Dietetics",
+      "Speech and Language Therapy"
+    ],
+    "Faculty of Public Health": [
+      "Environmental Health",
+      "Epidemiology",
+      "Health Education",
+      "Health Promotion",
+      "Public Health Nutrition"
+    ]
+  }
+}

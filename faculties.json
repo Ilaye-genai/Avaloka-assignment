@@ -1,0 +1,35 @@
+{
+  "note": "Typical faculties in Nigerian universities (NUC-style names). Not every university has all of them; names and groupings vary.",
+  "total": 21,
+  "faculties": {
+    "arts_and_humanities": [
+      "Faculty of Arts (or Humanities)",
+      "Faculty of Education",
+      "Faculty of Law",
+      "Faculty of Communication and Media Studies"
+    ],
+    "social_and_management_sciences": [
+      "Faculty of Social Sciences",
+      "Faculty of Management Sciences (or Business Administration)",
+      "Faculty of Administration"
+    ],
+    "sciences_and_technology": [
+      "Faculty of Science (or Natural and Applied Sciences)",
+      "Faculty of Engineering (or Engineering and Technology)",
+      "Faculty of Computing (or Computing and Information Technology)",
+      "Faculty of Environmental Sciences",
+      "Faculty of Agriculture",
+      "Faculty of Veterinary Medicine"
+    ],
+    "health_and_medical_sciences": [
+      "Faculty of Basic Medical Sciences",
+      "Faculty of Clinical Sciences",
+      "Faculty of Medicine",
+      "Faculty of Dentistry",
+      "Faculty of Pharmacy",
+      "Faculty of Nursing Sciences",
+      "Faculty of Allied Health Sciences (or Health Sciences)",
+      "Faculty of Public Health"
+    ]
+  }
+}
